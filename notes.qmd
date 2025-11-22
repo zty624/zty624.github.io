@@ -1,0 +1,50 @@
+---
+title: "Notes"
+title-block-banner: false
+---
+
+---
+
+
+
+
+
+## Quantum Mechanics & Quantum Field Theory
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/bg1_preview.png)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Fall 2025](https://zty624.github.io/qm2qft/)
+
+Legacy notes for 2025 Fall's lectures.
+
+:::
+
+:::
+
+
+## Introduction to the Theory of Computation 
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+
+Class 2 introduction.
+
+:::
+
+:::
+

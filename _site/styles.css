@@ -1,0 +1,347 @@
+/* Dark mode personal homepage styles */
+:root {
+  --bg-primary: #0a0a0a;
+  --bg-secondary: #111827;
+  --bg-card: #111827;
+  --text-primary: #f9fafb;
+  --text-secondary: #d1d5db;
+  --text-muted: #9ca3af;
+  --accent: #3b82f6;
+  --accent-hover: #2563eb;
+  --border: #1f2937;
+  --card-shadow: 0 18px 45px rgba(15, 23, 42, 0.7);
+}
+
+/* Light mode support */
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg-primary: #ffffff;
+    --bg-secondary: #f9fafb;
+    --bg-card: #f3f4f6;
+    --text-primary: #0f172a;
+    --text-secondary: #4b5563;
+    --text-muted: #6b7280;
+    --accent: #2563eb;
+    --accent-hover: #1d4ed8;
+    --border: #e5e7eb;
+    --card-shadow: 0 18px 40px rgba(15, 23, 42, 0.12);
+  }
+}
+
+/* ========== Base ========== */
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI",
+    sans-serif;
+  line-height: 1.6;
+}
+
+/* ========== Navbar ========== */
+.navbar {
+  background-color: rgba(15, 23, 42, 0.9);
+  border-bottom: 1px solid var(--border);
+  backdrop-filter: blur(16px);
+}
+
+.navbar-brand {
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--text-primary);
+}
+
+.navbar-nav .nav-link {
+  color: var(--text-secondary);
+  font-weight: 400;
+  padding-inline: 0.75rem;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus-visible,
+.navbar-nav .nav-link.active {
+  color: var(--accent);
+}
+
+/* ========== About card (trestles / jolla / solana) ========== */
+.quarto-about-jolla,
+.quarto-about-trestles,
+.quarto-about-solana {
+  background-color: var(--bg-card);
+  border-radius: 18px;
+  border: 1px solid rgba(148, 163, 184, 0.35);
+  box-shadow: var(--card-shadow);
+  padding: 2.3rem;
+  margin-top: 1.8rem;
+  margin-bottom: 2.6rem;
+}
+
+/* Avatar */
+.about-image {
+  border-radius: 999px;
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border: 3px solid var(--accent);
+  box-shadow: 0 0 28px rgba(59, 130, 246, 0.55);
+}
+
+/* Name + subtitle */
+.quarto-about-trestles h1,
+.quarto-about-jolla h1,
+.quarto-about-solana h1 {
+  margin-bottom: 0.3rem;
+}
+
+.quarto-about-trestles p.lead,
+.quarto-about-jolla p.lead,
+.quarto-about-solana p.lead {
+  color: var(--text-secondary);
+  margin-bottom: 0.9rem;
+}
+
+/* Social links row */
+.about-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 1.2rem;
+}
+
+/* Single social link */
+.about-link {
+  display: inline-flex;
+  align-items: center;          /* 图标 & 文字竖直居中对齐 */
+  gap: 0.45rem;
+  padding: 0.45rem 0.95rem;
+  border-radius: 999px;
+  border: 1px solid rgba(148, 163, 184, 0.55);
+  background-color: rgba(15, 23, 42, 0.96);
+  color: var(--text-secondary);
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition:
+    background-color 0.2s ease,
+    border-color 0.2s ease,
+    color 0.2s ease,
+    transform 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+/* Icon inside link: bootstrap icon / svg 都统一大小，对齐 */
+.about-link i,
+.about-link svg,
+.about-link .bi {
+  display: inline-block;
+  width: 1rem;
+  height: 1rem;
+  line-height: 1;
+}
+
+.about-link:hover,
+.about-link:focus-visible {
+  background-color: rgba(37, 99, 235, 0.26);
+  border-color: var(--accent);
+  color: var(--accent-hover);
+  transform: translateY(-1px);
+  text-decoration: none;
+  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.7);
+}
+
+/* ========== Typography & content ========== */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 2.4rem;
+  margin-bottom: 1.25rem;
+}
+
+h2 {
+  font-size: 1.9rem;
+  margin-top: 2.2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--border);
+}
+
+p {
+  color: var(--text-secondary);
+  margin-bottom: 0.9rem;
+}
+
+/* Lists */
+ul,
+ol {
+  color: var(--text-secondary);
+}
+
+li {
+  margin-bottom: 0.4rem;
+}
+
+/* Links in main content */
+main a,
+#quarto-document a,
+#quarto-content a {
+  color: var(--accent);
+  text-decoration: none;
+  transition: color 0.15s ease, text-decoration-color 0.15s ease;
+}
+
+main a:hover,
+main a:focus-visible,
+#quarto-document a:hover,
+#quarto-document a:focus-visible,
+#quarto-content a:hover,
+#quarto-content a:focus-visible {
+  color: var(--accent-hover);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+/* ========== Code blocks ========== */
+pre {
+  background-color: var(--bg-secondary);
+  border-radius: 10px;
+  border: 1px solid var(--border);
+}
+
+code {
+  background-color: rgba(15, 23, 42, 0.95);
+  color: var(--accent);
+  padding: 0.12rem 0.35rem;
+  border-radius: 4px;
+  font-size: 0.85em;
+}
+
+pre code {
+  background-color: transparent;
+  padding: 0;
+}
+
+/* ========== Blockquotes ========== */
+blockquote {
+  border-left: 3px solid var(--accent);
+  background-color: rgba(15, 23, 42, 0.96);
+  color: var(--text-secondary);
+  padding: 1rem 1.5rem;
+  border-radius: 0 10px 10px 0;
+  margin: 1.5rem 0;
+}
+
+/* ========== Tables ========== */
+table {
+  background-color: var(--bg-card);
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  overflow: hidden;
+}
+
+th,
+td {
+  border-color: var(--border);
+  color: var(--text-primary);
+}
+
+th {
+  background-color: var(--bg-secondary);
+  font-weight: 600;
+}
+
+/* ========== Sidebar / TOC ========== */
+.sidebar {
+  background-color: var(--bg-secondary);
+  border-right: 1px solid var(--border);
+}
+
+.toc {
+  background-color: var(--bg-card);
+  border-radius: 10px;
+  border: 1px solid var(--border);
+}
+
+.toc .toc-title {
+  color: var(--text-primary);
+  border-bottom-color: var(--border);
+}
+
+.toc a {
+  color: var(--text-secondary);
+}
+
+.toc a:hover,
+.toc a:focus-visible {
+  color: var(--accent);
+}
+
+/* ========== Focus ring ========== */
+*:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* ========== Responsive tweaks ========== */
+@media (max-width: 768px) {
+  .about-image {
+    width: 130px;
+    height: 130px;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+}
+
+/* Navbar alignment fix – 强制所有内容垂直居中 */
+.navbar {
+  display: flex;
+  align-items: center;
+}
+
+/* Quarto / Bootstrap 默认用 container-fluid 包一层，这里一起居中 */
+.navbar .container-fluid,
+.navbar .navbar-collapse {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* 左侧菜单、右侧图标都走这一套 */
+.navbar-nav {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0;  /* 有些主题会给 navbar-nav 一个下边距 */
+}
+
+.navbar-nav .nav-item {
+  display: flex;
+  align-items: center;
+}
+
+/* 文本 / 图标统一行高和内边距 */
+.navbar-nav .nav-link {
+  display: flex;
+  align-items: center;
+  padding-top: 0.35rem;
+  padding-bottom: 0.35rem;
+  line-height: 1;
+}
+
+/* 右侧 GitHub / 搜索图标的精调 */
+.navbar-nav .nav-link .bi {
+  font-size: 1.1rem;
+  line-height: 1;
+  vertical-align: middle;
+}

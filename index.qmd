@@ -1,0 +1,101 @@
+---
+title: "Tengyue Zhang, B.S."
+image: "files/images/profile.jpg"
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+  links:
+    # - icon: sun
+    #   text: Lab
+    #   href: https://www.github.com
+    #   target: _blank
+    # - icon: globe
+    #   text: Uprofile
+    #   href: https://baruch.cuny.edu
+    #   target: _blank
+    - icon: envelope
+      text: E-mail
+      href: mailto:zhangty_23@sjtu.edu.cn
+    - icon: github
+      text: GitHub
+      href: https://github.com/zty624
+      target: _blank
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://linkedin.com
+    #   target: _blank
+    # - icon: youtube
+    #   text: YouTube
+    #   href: https://www.youtube.com     
+    #   target: _blank 
+    # - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
+    #   href: https://orcid.org
+    #   target: _blank
+    # - text: "{{< ai clarivate >}} Web of Science"
+    #   href: https://www.webofscience.com  
+    #   target: _blank
+    # - text: "{{< ai scopus >}} Scopus"
+    #   href: https://www.scopus.com
+    #   target: _blank
+    # - text: "{{< ai google-scholar >}} Google Scholar"
+    #   href: https://scholar.google.com
+    #   target: _blank
+    # - text: "{{< ai researchgate >}} Research Gate"
+    #   href: https://www.researchgate.net
+    #   target: _blank
+
+listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
+  - id: recent-posts
+    contents: 
+      - posts
+      - posts/post-links.yml
+    exclude:
+      title: ""
+    type: grid
+    max-items: 3
+#    image-height: 150px
+    page-size: 3 #set same as max-times to remove the page number setting
+    fields: [image, date, title, subtitle]
+    max-description-length: 75
+    sort: 
+      - "date desc"
+      - "title asc"
+---
+
+:::{#hero-heading}
+
+## About Me
+
+I'm a B.S. student at Shanghai Jiao Tong University, majoring in Physics and minoring in Computer Science.
+
+You can find my research interests and more details on my [CV](files/cv_TengyueZhang_25Nov.pdf).
+
+
+<!-- ## Experience
+
+- Researcher, Univerisity -->
+
+## Education
+
+- B.S., Shanghai Jiao Tong University, Shanghai, China, 2023 - 2027 (expected)
+
+:::
+
+
+<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
+
+<br><br>
+
+## Recent Posts
+<!-- Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd) -->
+
+:::{#recent-posts}
+:::
+
+<p align="right">[All Posts »](/posts.qmd)</p>

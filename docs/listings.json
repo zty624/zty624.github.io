@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/news-thinking-about-physics-and-ai/index.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/news-thinking-about-physics-and-ai/index.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": []
+  }
+]
