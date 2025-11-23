@@ -1,5 +1,5 @@
 ---
-title: "Tengyue Zhang, B.S."
+title: "Tengyue Zhang"
 image: "files/images/profile.jpg"
 page-navigation: false
 toc: false
@@ -72,18 +72,20 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 ## About Me
 
-I'm a B.S. student at Shanghai Jiao Tong University, majoring in Physics and minoring in Computer Science.
+I’m a B.S. student in the Zhiyuan Honors Program in Physics Track at Shanghai Jiao Tong University (top 10% of cohort), with a minor in Computer Science.
 
-You can find my research interests and more details on my [CV](files/cv_TengyueZhang_25Nov.pdf).
+As an AI freshman with a background in physics, I emphasize using physical intuition and methodology to understand and study AI. My current research interests lie at the intersection of AI and physics, particularly Quantum Machine Learning (QML) and Physics-Informed Neural Networks (PINNs). I am also highly interested in multimodal learning, reinforcement learning, and the design of novel neural architectures.
+
+You can find a detailed overview of my research interests and experience in my [CV](files/cv_TengyueZhang_25Nov.pdf).
 
 
 <!-- ## Experience
 
 - Researcher, Univerisity -->
 
-## Education
+<!-- ## Education
 
-- B.S., Shanghai Jiao Tong University, Shanghai, China, 2023 - 2027 (expected)
+- B.S., Shanghai Jiao Tong University, Shanghai, China, 2023 - 2027 (expected) -->
 
 :::
 

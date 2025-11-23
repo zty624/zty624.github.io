@@ -6,44 +6,97 @@
       version="2.0">
 <channel>
 <title>Tengyue Zhang</title>
-<link>https://drganghe.github.io/quarto-academic-website-template/posts.html</link>
-<atom:link href="https://drganghe.github.io/quarto-academic-website-template/posts.xml" rel="self" type="application/rss+xml"/>
+<link>https://zty624.github.io/posts.html</link>
+<atom:link href="https://zty624.github.io/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.7.32</generator>
-<lastBuildDate>Fri, 21 Nov 2025 16:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 22 Nov 2025 16:00:00 GMT</lastBuildDate>
+<item>
+  <title>ICT Notes</title>
+  <link>https://zty624.github.io/</link>
+  <description>Notes for Introduction to Computational Theory</description>
+  <category>notes</category>
+  <category>on</category>
+  <guid>https://zty624.github.io/</guid>
+  <pubDate>Sat, 22 Nov 2025 16:00:00 GMT</pubDate>
+  <media:content url="https://zty624.github.io/files/images/bg2_preview.png" medium="image" type="image/png" height="89" width="144"/>
+</item>
 <item>
   <title>QM &amp; QFT Notes</title>
-  <link>https://drganghe.github.io/quarto-academic-website-template/</link>
+  <link>https://zty624.github.io/</link>
   <description>Notes for Quantum Mechanics &amp; Quantum Field Theory</description>
   <category>notes</category>
   <category>on</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/</guid>
+  <guid>https://zty624.github.io/</guid>
   <pubDate>Fri, 21 Nov 2025 16:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/bg1_preview.png" medium="image" type="image/png" height="81" width="144"/>
+  <media:content url="https://zty624.github.io/files/images/bg1_preview.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>Thinking about Physics and AI</title>
   <dc:creator>Tengyue Zhang</dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/news-thinking-about-physics-and-ai/</link>
+  <link>https://zty624.github.io/posts/blog-thinking-about-physics-and-ai/</link>
   <description><![CDATA[ 
 
 
 
 
-<p><a href="hn.jpg"><img src="https://drganghe.github.io/quarto-academic-website-template/posts/news-thinking-about-physics-and-ai/hn.jpg" class="img-fluid" style="width:90.0%"></a></p>
+<p>自从我下定决心转行已经快过去了半年。半年间我学了很多东西，也吃了很多苦头。安逸于物理的稳定和有序已久，猛然惊醒方觉外界换了人间，恍如烂柯。而现在只不过是努力追赶时代脚步罢了。</p>
+<p>半年间印象很深的，便是很多人问我，学物理的为什么要来搞 AI，是物理读不下去了还是只是单纯的跟风，或者则是兴趣满满问 AI 和物理怎么联系在一起。正好最近焦虑的发慌，便想写点东西来缓解一下。</p>
+<p style="text-align: right;">
+Revised on 2025-11-23
+</p>
+<hr>
 <p>2024 年的物理诺奖颁给了人工神经网络之父 Hinton，对物理专业的笔者而言，冲击无疑是巨大的。</p>
-<p>AI 的风已经席卷到各行各业，物理学也不例外。 大一的时候，笔者曾对最近五年的 Physics Review 系列论文的标题和摘要进行了引用统计，位于关键词云图中央的赫然是 Machine Learning。 那时笔者不敢相信统计的数据，以为是把交叉学科的论文也统计进去了，遂手动删去了 Machine Learning 这个 stop word 。 直到诺奖结果公布，笔者才意识到，自己当时说不定已经看到了未来，至少是几年以内的未来。</p>
-<p>笔者认为，自然科学和工程的发展无非是三个阶段的循环：Observation, Theory, Application. 物理学家，尤其是“传统”的物理学家，一般聚焦于观察和理论的阶段，致力于发现新的物理，无论是实验先验还是逻辑先验。 当然，我并没有排斥和贬低任何的工程科学，也没有反对物理学家使用工程师的思维来解决问题。 诚然，现代物理学体系日渐完善，前沿发展极端细分。 我所反对的，是物理学家困于工程师的思维尝试创造物理，但不能解释和分析之，也不能为社会带来实际的价值。 当物理学的工作变成调参，当领域细分的规律从普适逐渐变成了特殊，当物理学家需要用技术来理解研究对象时，物理学正在成为一种新的劳动密集型产业。 我不太清楚物理学的价值何在，我不太清楚物理研究的意义何在。</p>
-<p>和手机，网络等技术一样，AI 正在逐渐成为我们身体和能力的延伸。当笔者执笔写下这段文字时，已经深深感到自己文笔的生疏，词汇的贫乏，以及思维的迟钝。 被日新月异技术裹携着，笔者对未来毫无头绪。唯望笔者能在 AI 洪流之下，仍然做一颗会思考的苇草。</p>
-<p>这是理想乌托邦的落幕，也更是新世界的开端。</p>
+<p>笔者认为，自然科学和工程的发展无非是三个阶段的循环：Observation, Theory, Application. 物理学家，尤其是“传统”的物理学家，一般聚焦于观察和理论的阶段，致力于发现新的物理，无论是实验先验还是逻辑先验。</p>
+<p>当然，我并没有排斥和贬低任何的工程科学，也没有反对物理学家使用工程师的思维来解决问题。 诚然，现代物理学体系日渐完善，前沿发展极端细分。 我所反对的，是物理学家困于工程师的思维尝试创造物理，但不能解释和分析之，也不能为社会带来实际的价值。 当物理学的工作变成调参，当领域细分的规律从普适逐渐变成了特殊，当物理学家需要用技术来理解研究对象时，物理学正在成为一种新的劳动密集型产业。 我不太清楚物理学的价值何在，我不太清楚物理研究的意义何在。</p>
+<section id="paradigm-of-physics-research" class="level2">
+<h2 class="anchored" data-anchor-id="paradigm-of-physics-research">Paradigm of Physics Research</h2>
+<p>笔者自觉自己四大学的还可以，但是后面的内容，偏理论如广相场论，偏实验如光学凝聚态等等细分便不是很熟悉。 毕竟在同行继续向更深处迈进的时候，笔者已经转行去干完全不相干的 AI 了。 以前笔者自以为自己的理科背景，来 AI 这边应该可以很快的适应吧。然而，笔者现在才发现，从思维方式开始，物理就和 AI 之间存在着巨大的鸿沟。譬如，两者对于数学的态度。</p>
+<p>如果说数学是一切自然科学的鼻祖，那么物理学则是一切实验科学和工程技术的鼻祖。物理学有着和数学差不多深的知识树，但是在严谨度和公理化程度方面欠缺（从量子力学中看到的诸多 axioms 可见一斑）；她的普适性和抽象性，却又胜过化学、生物等其他描述性科学。这个特殊的地位，使得物理学在哲学意义上起到了一种桥梁的作用。顺水推舟，物理学的研究整体上可以被划分为理论和实验两个极端。</p>
+<p>然而理论和实验，哪个才是物理的主流？回望人类历史，物理学靠着理论和实验两条腿走路，哪一条长一点短一点都硌脚。但是，物理学发展到现代，纯数学和纯实验都已经细分为完善的学科。虽然细分的领域仍然很“物理”，但是物理学的“主流”已经不再是这些方向。当代社会中不可或缺的计算机，其底层的晶体管/CMOS原理，难道和物理学没有关系吗？然而在当代大学中，至少在中国的大学找个物理系的本科生，除非 ta 是搞微电子方向的，那么大概率不知道这些数电的基本知识。物理学研究的是未知数，那些成熟的理论都已经转化为工科的一部分了。Maxwell 说过，<em>Physics is the scientific study of matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force.</em></p>
+<p>所以，无论理论还是实验，都要像爱因斯坦所说一样，要分别出什么是“真正重要的研究”。以他的广义相对论为例，他在思考狭义相对论的时候，就已经意识到了引力的问题，但是他却没有解决问题的数学基础。当他告诉了他的朋友格罗斯曼时，格罗斯曼说：“你的想法是对的，但是你的数学是错的。”然后告诉他黎曼几何。这句话对物理学是一个很好的示例。现代物理学的研究方向有时过于细分，物理学的优点正是在于她的广度，使她可以有效的从数学和实验的两极借鉴知识。你能说黎曼几何不重要吗？当然不能。但是如果没有广义相对论，黎曼几何也许不会有现在这么大的影响力。所以，爱因斯坦对于引力时空的思想是“真正重要的”。毕竟，物理学的本质是研究自然规律，而不是单纯的数学或者实验技术。</p>
+<p>谈谈物理学的美。杨先生说物理学表面有表面的美，深层有深层的美，它们的内涵往往随着物理学的发展而产生新的意义。我斗胆猜想，他的意思应该是赞美物理学的普适性。这种普适性能够跨越实验现象，唯象理论，理论架构，甚至数学的界限，使得物理学的美是一种全方位的美。这种美，正是物理学的魅力所在。</p>
+<hr>
+<p>上述啰唆了这么多，无非是想说，物理学中对数学的依赖并不是那么的纯粹，因此从某种意义上来说，物理学和 AI 一样，都是“半公理化的”对数学的应用。而大多数情况下，物理和 AI 的研究方向是风马牛不相及的。话说到这个层面，那么结论也显而易见了。那些社会上对物理系学生容易转专业的刻板印象，不过是改开的教育红利罢。</p>
+</section>
+<section id="ai-for-physics" class="level2">
+<h2 class="anchored" data-anchor-id="ai-for-physics">AI for Physics?</h2>
+<p>AI 的风已经席卷到各行各业，物理学也不例外。大一的时候，笔者曾对最近五年的 Physics Review 系列论文的标题和摘要进行了引用统计，位于关键词云图中央的赫然是 Machine Learning。那时笔者不敢相信统计的数据，以为是把交叉学科的论文也统计进去了，遂手动删去了 Machine Learning 这个 stop word。直到 24 年诺奖结果公布，笔者才意识到，自己当时说不定已经看到了未来，至少是几年以内的未来。</p>
+<p>从物理出来后，笔者也接触过一些 AI for Science 的项目，但是整体上都比较 trivial。绝大多数的项目都是想用 AI 来取代/加速原本的研究范式中一些比较 time-consuming 的步骤。或者是，单纯的为了 AI 而 AI，不知道 AI 的价值何在。</p>
+<p>笔者以为，一个好的 AI for Science 课题要同时满足以下三个条件:</p>
+<ol type="1">
+<li><strong>问题已经被良定义</strong>. 不同于 CV, NLP 等拥有诸多 benchmark 和具体任务的方向，AI4Sci 存在这一个重大的问题，即每个 domain 都是具体情况具体分析，甚至在某些领域根本就没有明确的任务。如果一个方向，连 baseline 都没有被定义，一个基本的 benchmark 都没有，那么说难听点，往会议灌水的时候连完整的故事都讲不清楚。</li>
+<li><strong>数据充足</strong>. 当前 AI 的主导范式是表征学习，只要数据足够，模型就能自动学习到有用的信息和结构。</li>
+<li><strong>物理机制不明确</strong>. 如果物理机制明确，那么 AI 的存在意义何在？AI 在科学中的价值不是“重现已知物理”，而是在中尺度问题上建立有效理论，在现有理论不确定或不可微（non-differentiable）时构建近似模型。因此，AI 最擅长“机制未定但数据可观”的领域，例如蛋白折叠、中尺度气象、复杂材料等。</li>
+</ol>
+<p>非常可惜的是，物理学天生就不与 AI 适配。</p>
+<p>第一，很多物理问题本身就不是良定义的。在物理学中，数据仅用于检验理论，而不是用于学习理论。一旦某个现象的理论解释不明确，物理学家的标准操作是构建新的理论，而不是让理论去 fit 这个模型。这意味着，物理的研究范式并不是让你去实现什么，而是去解释什么。</p>
+<p>第二，物理学的实验数据往往非常稀缺。虽然说有很多方向的观测数据非常巨大，比如粒子和天体物理，但是这些数据往往是高度结构化、且信息含量极低，用传统的机器学习方法就可以很好的提取和分析。实验科学的数据稀缺性和昂贵性，使得深度模型天然处于欠定系统中。AI 能否取代传统统计方法、最大似然法、贝叶斯推断、凸优化等方法，仍然是一个值得商榷的问题。</p>
+<p>第三，得于半公理化的体系结构，物理学既没法像数学那样提供从 lean 出发的公理化证明路线，又不能直接放手给 AI 去“学”物理。将物理嵌入到 AI 之中，让 AI 通过学习物理来获得物理的洞察，感觉目前并没有什么好的方法。是最致命的是，物理学的理论机制，或者说对实验现象的解释权，一直都是掌握来理论学家手中的。AI 并不具备，也不能具备在语境下提供新物理的能力。</p>
+<p>AI for Physics 真正能做的，往往是在一些工程物理中，做一些理论已经明确，只不过数据量巨大的问题。比如材料科学，蛋白折叠，中尺度气象等。然而，如果都已经往工程上靠拢，那么去做 multimodal 和 NLP，岂不是更加的具有学术和社会价值？</p>
+</section>
+<section id="physics-for-ai" class="level2">
+<h2 class="anchored" data-anchor-id="physics-for-ai">Physics for AI</h2>
+<p>回到 subtitle, 其实说来神奇，当下流行的 NN 一开始是在研究多体问题中发现的。</p>
+<p><a href="hn.jpg"><img src="https://zty624.github.io/posts/blog-thinking-about-physics-and-ai/hn.jpg" class="img-fluid" style="width:90.0%"></a></p>
+<p>在经典的 Ising 自旋体系中，当自旋耦合的结构足够复杂时，系统的能量景观往往会形成许多彼此分离的低能谷。这些低能构型对应着不同的稳定自旋排列，每一个稳定排列都可以被视为一种“模式”。系统在动力学演化中，无论从何处出发，都会被吸入这些低能谷之一，从而表现出类似记忆的特性。在统计物理中，这类现象被称作多稳定态，常见于自旋玻璃等复杂系统。</p>
+<p>横场 Ising 模型是在这种经典结构上加入量子涨落：横向磁场使每个自旋都有概率发生翻转，从而能够在不同构型之间产生隧穿效应。尽管如此，只要横场的强度不至于压倒自旋耦合所决定的能量结构，这些原本的低能谷依然会保留下来。换句话说，量子涨落会在局部对稳定构型产生轻微扰动，但无法抹平整个能量景观。系统仍然拥有一系列相对稳定的量子态，它们与经典的自旋排列高度相似，并在动力学上继续充当吸引子。</p>
+<p>在 Hopfield network 里，人们首次系统地把“模式存储”现象引入人工神经网络的语境：每个神经元只取两种离散状态，网络中所有连接是对称的，并通过一个类似能量的标量来刻画整体状态的“好坏”。当网络从一个带噪声的初始状态出发，按照局部规则异步更新时，这个能量会单调下降，最终把系统拉进某个稳定构型。每一个稳定构型对应一幅“记忆图像”或“模式”，不同的模式则对应能量景观里的不同谷底。这样，Hopfield network 就把“联想记忆”具体实现为：从不完整或受扰动的输入出发，通过动力学演化回到最近的稳定模式。</p>
+<p>Hinton 提出了 Boltzmann machine、受限玻尔兹曼机等一系列模型，把“能量函数”当作统一的建模语言：你只要设计好能量函数，概率分布、采样过程以及学习目标就都随之确定。他进一步发展了近似学习算法，用有限步的随机演化来逼近真实的热平衡采样，从而在实际规模上训练这些能量模型，让其真正成为现代机器学习中的一个重要分支。</p>
+</section>
+<section id="future" class="level2">
+<h2 class="anchored" data-anchor-id="future">Future</h2>
+<p>GPT 只是三年前的产物，大名鼎鼎的 ds-r1 在年初问世，现在就被嘴刁的用户嫌弃。大多数人学习的速度赶不上 AI 技术迭代的速度，又有多少人已经成为 LLM 的 distilled-model？和计算机、网络等技术不同，表征和连续学习的能力真的可以取代人类存在本身，劳动的异化正在以一种前所未有的方式成为现实。</p>
+<p>和手机，网络等技术一样，AI 正在逐渐成为我们身体和能力的延伸。当笔者执笔写下这段文字时，已经深深感到自己文笔的生疏，词汇的贫乏，以及思维的迟钝。被日新月异技术裹携着，笔者对未来毫无头绪。唯望笔者能在 AI 洪流之下，仍然做一颗会思考的苇草。</p>
 <!--Include social share buttons-->
 <!-- {{< include /files/includes/_socialshare.qmd >}} -->
 
 
+</section>
 
  ]]></description>
   <category>blog</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/news-thinking-about-physics-and-ai/</guid>
+  <guid>https://zty624.github.io/posts/blog-thinking-about-physics-and-ai/</guid>
   <pubDate>Tue, 22 Jul 2025 16:00:00 GMT</pubDate>
 </item>
 </channel>

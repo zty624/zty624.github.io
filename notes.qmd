@@ -5,9 +5,7 @@ title-block-banner: false
 
 ---
 
-
-
-
+Here are my notes for topics or courses I think are interesting.
 
 ## Quantum Mechanics & Quantum Field Theory
 
@@ -34,15 +32,13 @@ Legacy notes for 2025 Fall's lectures.
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
+![](files/images/bg2_preview.png)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 2 introduction.
+[Fall 2025](https://zty624.github.io/ict/)
 
 :::
 

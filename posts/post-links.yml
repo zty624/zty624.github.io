@@ -7,3 +7,10 @@
       date: "2025-11-22"
       categories: [notes, on] 
 
+    - path: https://zty624.github.io/ict/
+      image: "files/images/bg2_preview.png"
+      title: "ICT Notes"
+      # author: "Dr. Gang He"
+      description: "Notes for Introduction to Computational Theory"
+      date: "2025-11-23"
+      categories: [notes, on] 
