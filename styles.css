@@ -1,1 +1,6 @@
 /* css styles */
+body {
+  font-family: "Segoe UI", "Helvetica Neue",
+               Arial, "Noto Sans SC", "Microsoft YaHei", "PingFang SC",
+               "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif;
+}
