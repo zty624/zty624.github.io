@@ -74,13 +74,19 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 I am an undergraduate in the Zhiyuan Honors Program (**Physics Track**) at Shanghai Jiao Tong University, with a minor in Computer Science.
 
-As an AI newcomer with a background in physics, I emphasize using physical intuition to study and research AI. My current research interests lie at the intersection of AI and physics, particularly Quantum Machine Learning (QML) and Physics-Informed Neural Networks (PINNs). I am also highly interested in multimodal generation, with a specific focus on Text-to-Speech (TTS).
+As an AI newcomer with a background in physics, my current research interests lie at the intersection of AI and physics, particularly Quantum Machine Learning (QML) and Physics-Informed Neural Networks (PINNs). I am also highly interested in multimodal generation, with a specific focus on Text-to-Speech (TTS).
 
 ## Experiences & Interests
 
 I decided to switch my focus from physics to AI in June, 2025. While I have not yet published any articles, I am currently involved in several projects at the intersection of AI for Science and multimodal generation.
 
 You can find a detailed summary of my experiences and technical skill set in my [CV](files/cv_TengyueZhang_25Nov.pdf).
+
+## About Future
+
+I am seeking a **summer research opportunity** for 2026, and I am planning to pursue a Ph.D. in **Computer Science / Artificial Intelligence** starting in Fall 2027.
+
+If you are interested in my research, please feel free to contact me.
 
 
 <!-- ## Experience
