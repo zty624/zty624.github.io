@@ -72,7 +72,7 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 ## About Me
 
-I am an undergraduate in the Zhiyuan Honors Program (**Physics Track**) at Shanghai Jiao Tong University, with a minor in Computer Science.
+I am an undergraduate in the **Zhiyuan Honors Program (Physics Track)** at Shanghai Jiao Tong University, with a minor in Computer Science.
 
 As an AI newcomer with a background in physics, my current research interests lie at the intersection of AI and physics, particularly Quantum Machine Learning (QML) and Physics-Informed Neural Networks (PINNs). I am also highly interested in multimodal generation, with a specific focus on Text-to-Speech (TTS).
 

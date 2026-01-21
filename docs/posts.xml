@@ -10,7 +10,17 @@
 <atom:link href="https://zty624.github.io/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.7.32</generator>
-<lastBuildDate>Sat, 22 Nov 2025 16:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Jan 2026 16:00:00 GMT</lastBuildDate>
+<item>
+  <title>Deep Learning Notes</title>
+  <link>https://zty624.github.io/</link>
+  <description>Notes for Deep Learning</description>
+  <category>notes</category>
+  <category>on</category>
+  <guid>https://zty624.github.io/</guid>
+  <pubDate>Wed, 21 Jan 2026 16:00:00 GMT</pubDate>
+  <media:content url="https://zty624.github.io/files/images/bg1_preview.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
 <item>
   <title>ICT Notes</title>
   <link>https://zty624.github.io/</link>

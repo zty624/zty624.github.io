@@ -14,3 +14,11 @@
       description: "Notes for Introduction to Computational Theory"
       date: "2025-11-23"
       categories: [notes, on] 
+
+    - path: https://zty624.github.io/DL/
+      image: "files/images/bg1_preview.png"
+      title: "Deep Learning Notes"
+      # author: "Dr. Gang He"
+      description: "Notes for Deep Learning"
+      date: "2026-01-22"
+      categories: [notes, on] 
