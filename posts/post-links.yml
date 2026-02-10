@@ -16,7 +16,7 @@
       categories: [notes, on] 
 
     - path: https://zty624.github.io/DL/
-      image: "files/images/bg1_preview.png"
+      image: "files/images/bg3_preview.jpg"
       title: "Deep Learning Notes"
       # author: "Dr. Gang He"
       description: "Notes for Deep Learning"

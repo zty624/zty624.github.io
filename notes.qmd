@@ -44,3 +44,19 @@ Legacy notes for 2025 Fall's lectures.
 
 :::
 
+## Deep Learning
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/bg3_preview.jpg)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Fall 2025](https://zty624.github.io/DL/)
+
+:::
+
+:::

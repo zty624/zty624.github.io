@@ -19,7 +19,7 @@
   <category>on</category>
   <guid>https://zty624.github.io/</guid>
   <pubDate>Wed, 21 Jan 2026 16:00:00 GMT</pubDate>
-  <media:content url="https://zty624.github.io/files/images/bg1_preview.png" medium="image" type="image/png" height="81" width="144"/>
+  <media:content url="https://zty624.github.io/files/images/bg3_preview.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>ICT Notes</title>
@@ -85,8 +85,8 @@ Revised on 2025-11-23
 <p>第三，得于半公理化的体系结构，物理学既没法像数学那样提供从 lean 出发的公理化证明路线，又不能直接放手给 AI 去“学”物理。将物理嵌入到 AI 之中，让 AI 通过学习物理来获得物理的洞察，感觉目前并没有什么好的方法。是最致命的是，物理学的理论机制，或者说对实验现象的解释权，一直都是掌握来理论学家手中的。AI 并不具备，也不能具备在语境下提供新物理的能力。</p>
 <p>AI for Physics 真正能做的，往往是在一些工程物理中，做一些理论已经明确，只不过数据量巨大的问题。比如材料科学，蛋白折叠，中尺度气象等。然而，如果都已经往工程上靠拢，那么去做 multimodal 和 NLP，岂不是更加的具有学术和社会价值？</p>
 </section>
-<section id="physics-for-ai" class="level2">
-<h2 class="anchored" data-anchor-id="physics-for-ai">Physics for AI</h2>
+<section id="physics-of-ai" class="level2">
+<h2 class="anchored" data-anchor-id="physics-of-ai">Physics of AI</h2>
 <p>回到 subtitle, 其实说来神奇，当下流行的 NN 一开始是在研究多体问题中发现的。</p>
 <p><a href="hn.jpg"><img src="https://zty624.github.io/posts/blog-thinking-about-physics-and-ai/hn.jpg" class="img-fluid" style="width:90.0%"></a></p>
 <p>在经典的 Ising 自旋体系中，当自旋耦合的结构足够复杂时，系统的能量景观往往会形成许多彼此分离的低能谷。这些低能构型对应着不同的稳定自旋排列，每一个稳定排列都可以被视为一种“模式”。系统在动力学演化中，无论从何处出发，都会被吸入这些低能谷之一，从而表现出类似记忆的特性。在统计物理中，这类现象被称作多稳定态，常见于自旋玻璃等复杂系统。</p>
