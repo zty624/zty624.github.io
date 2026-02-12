@@ -26,6 +26,9 @@ about:
       text: GitHub
       href: https://github.com/zty624
       target: _blank
+    - text: "{{< fa brands discourse >}} AI4Physicist"
+      href: https://ai4p.discourse.group/
+      target: _blank
     # - icon: linkedin
     #   text: LinkedIn
     #   href: https://linkedin.com
