@@ -79,10 +79,9 @@ I am an undergraduate in the **Zhiyuan Honors Program** (*Physics Track*)
 at Shanghai Jiao Tong University, with a minor in *Computer Science*.
 As an AI newcomer with a background in physics, 
 I decided to switch my focus from physics to AI in June, 2025. 
-My current research interests lie at the intersection of AI and physics, particularly AI4Sci. 
-I also have a broad interest in multimodal generation and natural language processing.
 
-You can find a detailed summary of my research interests and experiences in my [CV](files/cv_TengyueZhang_26Feb.pdf).
+My current research interests lie in generative diffusion modeling, with a focus on applications such as image generation, video generation, and diffusion language models. I also have a broad interest in AI for Science (AI4Sci).
+You can find a detailed summary of my research interests and experiences in my [CV](files/cv_TengyueZhang_26Mar.pdf).
 
 ## Publications
 

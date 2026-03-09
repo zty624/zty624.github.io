@@ -34,7 +34,7 @@ website:
 
     right: 
       - text: CV
-        href: files/cv_TengyueZhang_25Nov.pdf
+        href: files/cv_TengyueZhang_26Mar.pdf
       - icon: github
         href: https://github.com/zty624
         target: _blank
@@ -69,7 +69,7 @@ website:
 
   draft-mode: unlinked
   
-  repo-url: https://github.com/drganghe/quarto-academic-website-template
+#  repo-url: https://github.com/drganghe/quarto-academic-website-template
 #  repo-actions: [edit, issue, source]
   
   open-graph: true
