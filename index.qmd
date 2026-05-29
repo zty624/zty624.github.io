@@ -81,11 +81,11 @@ As an AI newcomer with a background in physics,
 I decided to switch my focus from physics to AI in June, 2025. 
 
 My current research interests lie in generative diffusion modeling, with a focus on applications such as image generation, video generation, and diffusion language models. I also have a broad interest in AI for Science (AI4Sci).
-You can find a detailed summary of my research interests and experiences in my [CV](files/cv_TengyueZhang_26Mar.pdf).
+You can find a detailed summary of my research interests and experiences in my [CV](files/cv_TengyueZhang_26May.pdf).
 
 ## Publications
 
-Jiatong Zhao\*, **Tengyue Zhang**\*, Yuhan Wang, Fuyuan Wu, Junchi Yan. *Co4ICF: Co-evolving Physics-Informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion*. In Proceedings of The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’26) (\* Equal Contribution)
+Jiatong Zhao\*, **Tengyue Zhang**\*, Yuhan Wang\*, Fuyuan Wu, Junchi Yan. *Co4ICF: Co-evolving Physics-Informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion*. Accepted by The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ‘26) (\* Equal Contribution)
 
 ## About Future
 

@@ -2,13 +2,7 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/blog-paper_generative_modeling_via_drifting/index.html",
-      "/posts/blog-thinking-about-physics-and-ai/index.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
+      "/posts/blog-harness-as-automata/index.html",
       "/posts/blog-paper_generative_modeling_via_drifting/index.html",
       "/posts/blog-thinking-about-physics-and-ai/index.html"
     ]
@@ -16,6 +10,14 @@
   {
     "listing": "/people.html",
     "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/blog-harness-as-automata/index.html",
+      "/posts/blog-paper_generative_modeling_via_drifting/index.html",
+      "/posts/blog-thinking-about-physics-and-ai/index.html"
+    ]
   },
   {
     "listing": "/projects.html",

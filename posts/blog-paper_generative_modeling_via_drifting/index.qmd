@@ -3,7 +3,7 @@ title: "Generative Modeling via Drifting"
 description: "把推理时的迭代前移到训练阶段——一个很有后劲的生成建模新视角"
 author: "Tengyue Zhang"
 date: "2026-03-11"
-categories: [blog, notes, paper]
+categories: [blog, paper]
 image: "/files/images/openclaw.svg"
 # css: /custom.css
 # draft: true

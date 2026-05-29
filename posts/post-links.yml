@@ -13,7 +13,7 @@
       # author: "Dr. Gang He"
       description: "Notes for Introduction to Computational Theory"
       date: "2025-11-23"
-      categories: [notes, on] 
+      categories: [notes] 
 
     - path: https://zty624.github.io/DL/
       image: "files/images/bg3_preview.jpg"

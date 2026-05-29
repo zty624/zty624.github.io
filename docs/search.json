@@ -18,7 +18,7 @@
     "href": "posts.html",
     "title": "What’s New & Updated",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nGenerative Modeling via Drifting\n\n\n\nblog\n\nnotes\n\npaper\n\n\n\n把推理时的迭代前移到训练阶段——一个很有后劲的生成建模新视角\n\n\n\n\n\nMar 11, 2026\n\n\nTengyue Zhang\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning Notes\n\n\n\nnotes\n\non\n\n\n\nNotes for Deep Learning\n\n\n\n\n\nJan 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Computational Theory Notes\n\n\n\nnotes\n\non\n\n\n\nNotes for Introduction to Computational Theory\n\n\n\n\n\nNov 23, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQM & QFT Notes\n\n\n\nnotes\n\non\n\n\n\nNotes for Quantum Mechanics & Quantum Field Theory\n\n\n\n\n\nNov 22, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nThinking about Physics and AI\n\n\n\nblog\n\n\n\nFrom the 2024/2025 Nobel Prize in Physics\n\n\n\n\n\nJul 23, 2025\n\n\nTengyue Zhang\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWhy Harness Works and Why I Think It Is Not Important\n\n\n\nblog\n\n\n\n从自动机、非确定图灵机和复杂度理论重新理解 Harness\n\n\n\n\n\nMay 19, 2026\n\n\nTengyue Zhang\n\n\n\n\n\n\n\n\n\n\n\n\nGenerative Modeling via Drifting\n\n\n\nblog\n\npaper\n\n\n\n把推理时的迭代前移到训练阶段——一个很有后劲的生成建模新视角\n\n\n\n\n\nMar 11, 2026\n\n\nTengyue Zhang\n\n\n\n\n\n\n\n\n\n\n\n\nThinking about Physics and AI\n\n\n\nblog\n\n\n\nFrom the 2024/2025 Nobel Prize in Physics\n\n\n\n\n\nJul 23, 2025\n\n\nTengyue Zhang\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/blog-paper_generative_modeling_via_drifting/index.html",
@@ -126,62 +126,6 @@
     "text": "最后的判断\n我对这篇论文的总体评价很明确：它是一篇高质量、强新意、强结果，而且对后续研究方向很有启发性的工作。它最打动人的地方，不是单纯做到了 one-step，而是提供了一个很强的主张：生成里的迭代未必非得出现在推理时，训练过程本身也可以承载分布演化。\n这件事如果只是个漂亮想法，那它会是一篇“有意思”的论文；现在的问题在于，它还真把 ImageNet 256 的 1-NFE 结果做得非常强，于是它就不只是有意思，而是值得认真对待。\n如果只回答一句“该不该花时间”，我的答案还是：该，而且不只是读结论，值得认真拆它的方法、framing 和它背后的研究口味。"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Tengyue Zhang",
-    "section": "",
-    "text": "E-mail\n  \n  \n    \n     GitHub\n  \n  \n      AI4Physicist\n  \n\n  \n  \n\n\nI am an undergraduate in the Zhiyuan Honors Program (Physics Track) at Shanghai Jiao Tong University, with a minor in Computer Science. As an AI newcomer with a background in physics, I decided to switch my focus from physics to AI in June, 2025.\nMy current research interests lie in generative diffusion modeling, with a focus on applications such as image generation, video generation, and diffusion language models. I also have a broad interest in AI for Science (AI4Sci). You can find a detailed summary of my research interests and experiences in my CV.\n\n\n\nJiatong Zhao*, Tengyue Zhang*, Yuhan Wang, Fuyuan Wu, Junchi Yan. Co4ICF: Co-evolving Physics-Informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion. In Proceedings of The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’26) (* Equal Contribution)\n\n\n\nNow I am seeking a summer research opportunity for 2026, and I am planning to pursue a Ph.D. in Computer Science / Artificial Intelligence starting in Fall 2027. Please feel free to contact me if interested."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Tengyue Zhang",
-    "section": "",
-    "text": "I am an undergraduate in the Zhiyuan Honors Program (Physics Track) at Shanghai Jiao Tong University, with a minor in Computer Science. As an AI newcomer with a background in physics, I decided to switch my focus from physics to AI in June, 2025.\nMy current research interests lie in generative diffusion modeling, with a focus on applications such as image generation, video generation, and diffusion language models. I also have a broad interest in AI for Science (AI4Sci). You can find a detailed summary of my research interests and experiences in my CV."
-  },
-  {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
-    "title": "Tengyue Zhang",
-    "section": "",
-    "text": "Jiatong Zhao*, Tengyue Zhang*, Yuhan Wang, Fuyuan Wu, Junchi Yan. Co4ICF: Co-evolving Physics-Informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion. In Proceedings of The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’26) (* Equal Contribution)"
-  },
-  {
-    "objectID": "index.html#about-future",
-    "href": "index.html#about-future",
-    "title": "Tengyue Zhang",
-    "section": "",
-    "text": "Now I am seeking a summer research opportunity for 2026, and I am planning to pursue a Ph.D. in Computer Science / Artificial Intelligence starting in Fall 2027. Please feel free to contact me if interested."
-  },
-  {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Tengyue Zhang",
-    "section": "Recent Posts",
-    "text": "Recent Posts\n\n\n\n\n\n\n\n\n\n\n\nGenerative Modeling via Drifting\n\n\n\nMar 11, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Learning Notes\n\n\n\nJan 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Computational Theory Notes\n\n\n\nNov 23, 2025\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#team",
-    "href": "people.html#team",
-    "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "notes.html",
     "href": "notes.html",
     "title": "Notes",
@@ -208,6 +152,62 @@
     "title": "Notes",
     "section": "Deep Learning",
     "text": "Deep Learning\n\n\n\n\n\nFall 2025"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#team",
+    "href": "people.html#team",
+    "title": "People",
+    "section": "",
+    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tengyue Zhang",
+    "section": "",
+    "text": "E-mail\n  \n  \n    \n     GitHub\n  \n  \n      AI4Physicist\n  \n\n  \n  \n\n\nI am an undergraduate in the Zhiyuan Honors Program (Physics Track) at Shanghai Jiao Tong University, with a minor in Computer Science. As an AI newcomer with a background in physics, I decided to switch my focus from physics to AI in June, 2025.\nMy current research interests lie in generative diffusion modeling, with a focus on applications such as image generation, video generation, and diffusion language models. I also have a broad interest in AI for Science (AI4Sci). You can find a detailed summary of my research interests and experiences in my CV.\n\n\n\nJiatong Zhao*, Tengyue Zhang*, Yuhan Wang*, Fuyuan Wu, Junchi Yan. Co4ICF: Co-evolving Physics-Informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion. Accepted by The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ‘26) (* Equal Contribution)\n\n\n\nNow I am seeking a summer research opportunity for 2026, and I am planning to pursue a Ph.D. in Computer Science / Artificial Intelligence starting in Fall 2027. Please feel free to contact me if interested."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Tengyue Zhang",
+    "section": "",
+    "text": "I am an undergraduate in the Zhiyuan Honors Program (Physics Track) at Shanghai Jiao Tong University, with a minor in Computer Science. As an AI newcomer with a background in physics, I decided to switch my focus from physics to AI in June, 2025.\nMy current research interests lie in generative diffusion modeling, with a focus on applications such as image generation, video generation, and diffusion language models. I also have a broad interest in AI for Science (AI4Sci). You can find a detailed summary of my research interests and experiences in my CV."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Tengyue Zhang",
+    "section": "",
+    "text": "Jiatong Zhao*, Tengyue Zhang*, Yuhan Wang*, Fuyuan Wu, Junchi Yan. Co4ICF: Co-evolving Physics-Informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion. Accepted by The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ‘26) (* Equal Contribution)"
+  },
+  {
+    "objectID": "index.html#about-future",
+    "href": "index.html#about-future",
+    "title": "Tengyue Zhang",
+    "section": "",
+    "text": "Now I am seeking a summer research opportunity for 2026, and I am planning to pursue a Ph.D. in Computer Science / Artificial Intelligence starting in Fall 2027. Please feel free to contact me if interested."
+  },
+  {
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "Tengyue Zhang",
+    "section": "Recent Posts",
+    "text": "Recent Posts\n\n\n\n\n\n\n\n\n\n\n\nWhy Harness Works and Why I Think It Is Not Important\n\n\n\nMay 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenerative Modeling via Drifting\n\n\n\nMar 11, 2026\n\n\n\n\n\n\n\n\n\n\n\nThinking about Physics and AI\n\n\n\nJul 23, 2025\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
   },
   {
     "objectID": "posts/blog-thinking-about-physics-and-ai/index.html",
@@ -250,5 +250,26 @@
     "title": "Projects",
     "section": "",
     "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/blog-harness-as-automata/index.html",
+    "href": "posts/blog-harness-as-automata/index.html",
+    "title": "Why Harness Works and Why I Think It Is Not Important",
+    "section": "",
+    "text": "最近事务繁忙，这篇文章先把想法交给 codex 起草。我保留其中的判断，也保留 agent 代笔留下的痕迹。"
+  },
+  {
+    "objectID": "posts/blog-harness-as-automata/index.html#脚本之外",
+    "href": "posts/blog-harness-as-automata/index.html#脚本之外",
+    "title": "Why Harness Works and Why I Think It Is Not Important",
+    "section": "脚本之外",
+    "text": "脚本之外\n最近用了一圈好用的 harness 和它们的配套插件——快速总结 skill 的 hermes agent，写代码的神 claude code，还有 ARIS、ralph-loop 之类。一方面，它们确实有用，极大加速了笔者学习和工作的效率；另一方面，也看到了不少像 Openclaw 这种噱头大于实质的 agent。\n笔者一直对所谓 agent，或者更时髦一点的 harness engineering，抱有一种矛盾态度。说它只是脚本，好像太轻了：同一个基座模型，套上不同 harness 之后，真实任务表现确实会差很多。说它是新的智能范式，又好像太重了：大多数 harness 拆开看，不过是状态管理、工具调用、失败重试、日志记录、权限隔离、verifier 和 budget control。\n笔者自然尊重 harness, 以及当前的各种 agentic 的研究工作。但是笔者想要问的，或者是强调的问题是：harness 到底改变了什么？它的有效性来自哪里？以及这种有效性为什么仍然不构成一种根本重要性？"
+  },
+  {
+    "objectID": "posts/blog-harness-as-automata/index.html#agent-与控制论",
+    "href": "posts/blog-harness-as-automata/index.html#agent-与控制论",
+    "title": "Why Harness Works and Why I Think It Is Not Important",
+    "section": "Agent 与控制论",
+    "text": "Agent 与控制论\n如果只看当下的 AI 圈，harness 很容易被说成一种新东西：agent framework、tool-use wrapper、workflow engine、multi-agent orchestration、auto-research loop……换一套词，它似乎就带上了革命色彩。可是把时间轴稍微拉长，harness 并不神秘。它更像控制论在 LLM 时代重新露出的一副面孔。\n控制论最早关心的并不是“机器有没有心智”，而是系统怎样在扰动中维持目标。Rosenblueth、Wiener 和 Bigelow 在 1943 年的 Behavior, Purpose and Teleology 中讨论目的性行为时，抓住的是 negative feedback：系统观测自身与目标之间的偏差，再用动作缩小偏差。Wiener 后来在 Cybernetics 中把这个领域定义为动物和机器中的控制与通信。把这个定义放到今天看，几乎就是 agent harness 的骨架：观测、误差、动作、反馈、再观测。\nharness 的第一层意义，不是“让模型更聪明”，而是把模型放进反馈回路。如果说，裸 LLM 可以看作一个单步生成的开环系统 \\(y \\sim M(\\cdot \\mid x)\\), 那么控制论意义上的 harness 则是闭环： \\[\n\\text{state} \\rightarrow \\text{model action} \\rightarrow \\text{environment/tool} \\rightarrow \\text{observation} \\rightarrow \\text{state update}.\n\\]\n系统不仅仅问“模型这一次说了什么”，而且追问“这条运行轨迹有没有把系统推向目标”。譬如，写代码 agent 的目标不是吐出一段看起来像 patch 的文本，而是让测试通过、diff 可读、让仓库状态一致、失败可复现。科研 agent 的目标也不该只是写出一篇像论文的文章，而应当形成假设、设计实验、运行实验、读出证据、更新判断。换句话说，harness 把语言模型从一个 generator 放进了 feedback loop，让它成为其中的 controller component。\nAshby 的控制论尤其适合说明这里面的工程直觉。他在 An Introduction to Cybernetics 里提出 Law of Requisite Variety：只有足够的 variety 才能吸收环境的 variety。一个系统面对的扰动越复杂，调节器本身就越需要丰富的状态和动作。放到 LLM harness 上，这句话并不抽象。真实任务会在格式、权限、依赖、网络、测试、资源、上下文、模型幻觉、工具错误、评测漏洞等地方失败。如果 harness 只有 run -&gt; done 两个状态，它当然调节不了这些扰动。于是它长出 parser、retry、timeout、checkpoint、sandbox、verifier、cache、human review、budget control。这些不是装饰，而是 requisite variety。\nConant 和 Ashby 1970 年的 Good Regulator Theorem 说得更直接：每一个好的调节器都必须包含被调节系统的模型。一个 harness 若想调节 agent，就不能只知道“再跑一次”。它必须知道哪些失败可重试，哪些失败致命，哪些状态可恢复，哪些动作越权，哪些输出可以被 verifier 接受。好的 harness 不是更厚的胶水，而是更准确的系统模型。\n所以，harness engineering 虽然常常像工程杂活，却经常决定系统表现。控制器的质量不在于叙事有多宏大，而在于它是否把关键状态、关键误差和关键动作编码进闭环。一个能区分 FORMAT_ERROR、TEST_FAILURE、DEPENDENCY_MISSING、UNSAFE_ACTION、BUDGET_EXHAUSTED 的 harness，比一个只会返回 FAILED 的 harness 多了许多调节能力。\nTo be Continued"
   }
 ]
