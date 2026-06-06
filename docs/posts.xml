@@ -433,6 +433,35 @@ $$
   <media:content url="https://zty624.github.io/files/images/openclaw.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
+  <title>Deep Learning Notes</title>
+  <link>https://zty624.github.io/</link>
+  <description>Notes for Deep Learning</description>
+  <category>notes</category>
+  <category>on</category>
+  <guid>https://zty624.github.io/</guid>
+  <pubDate>Wed, 21 Jan 2026 16:00:00 GMT</pubDate>
+  <media:content url="https://zty624.github.io/files/images/bg3_preview.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Introduction to Computational Theory Notes</title>
+  <link>https://zty624.github.io/</link>
+  <description>Notes for Introduction to Computational Theory</description>
+  <category>notes</category>
+  <guid>https://zty624.github.io/</guid>
+  <pubDate>Sat, 22 Nov 2025 16:00:00 GMT</pubDate>
+  <media:content url="https://zty624.github.io/files/images/bg2_preview.png" medium="image" type="image/png" height="89" width="144"/>
+</item>
+<item>
+  <title>QM &amp; QFT Notes</title>
+  <link>https://zty624.github.io/</link>
+  <description>Notes for Quantum Mechanics &amp; Quantum Field Theory</description>
+  <category>notes</category>
+  <category>on</category>
+  <guid>https://zty624.github.io/</guid>
+  <pubDate>Fri, 21 Nov 2025 16:00:00 GMT</pubDate>
+  <media:content url="https://zty624.github.io/files/images/bg1_preview.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
   <title>Thinking about Physics and AI</title>
   <dc:creator>Tengyue Zhang</dc:creator>
   <link>https://zty624.github.io/posts/blog-thinking-about-physics-and-ai/</link>

@@ -33,8 +33,10 @@ website:
       #   href: people.qmd
 
     right: 
-      - text: CV
+      - text: CV_EN
         href: files/cv_TengyueZhang_26May.pdf
+      - text: CV_ZH
+        href: files/cv_TengyueZhang_26Jun_ZH.pdf
       - icon: github
         href: https://github.com/zty624
         target: _blank
