@@ -4,3 +4,144 @@ body {
                Arial, "Noto Sans SC", "Microsoft YaHei", "PingFang SC",
                "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif;
 }
+
+:root {
+  --site-body-width: 1240px;
+  --bs-root-font-size: 18px;
+}
+
+#quarto-header,
+#quarto-header.headroom,
+#quarto-header.headroom--pinned,
+#quarto-header.headroom--unpinned {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  transform: none !important;
+}
+
+#quarto-header .navbar {
+  min-height: 44px;
+  padding-top: 0.08rem;
+  padding-bottom: 0.08rem;
+}
+
+#quarto-header .nav-link {
+  padding-top: 0.18rem;
+  padding-bottom: 0.18rem;
+}
+
+#quarto-header .navbar-brand {
+  padding-top: 0.12rem;
+  padding-bottom: 0.12rem;
+}
+
+#quarto-header .navbar-brand-container {
+  position: relative;
+  margin-right: 2.1rem !important;
+}
+
+#quarto-header .navbar-brand-container::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: -1.05rem;
+  width: 1px;
+  height: 1.15rem;
+  background: rgb(222 226 230 / 0.75);
+  transform: translateY(-50%);
+}
+
+#quarto-header .navbar-title,
+#quarto-header .nav-link,
+#quarto-header .dropdown-item {
+  font-weight: 650;
+}
+
+#quarto-header .dropdown-menu {
+  margin-top: 0.42rem;
+  padding: 0.35rem;
+  border: 1px solid rgb(222 226 230 / 0.95);
+  border-radius: 8px;
+  box-shadow: 0 12px 28px rgb(0 0 0 / 0.16);
+}
+
+#quarto-header .dropdown-item {
+  padding: 0.42rem 0.72rem;
+  border-radius: 6px;
+}
+
+#quarto-header .dropdown-item:hover,
+#quarto-header .dropdown-item:focus {
+  background: rgb(255 255 255 / 0.1);
+}
+
+#quarto-header #quarto-search .aa-DetachedSearchButton,
+#quarto-header #quarto-search .aa-Form {
+  min-height: 30px;
+  border: 1px solid rgb(222 226 230 / 0.95);
+  border-radius: 999px;
+  background: rgb(255 255 255 / 0.08);
+}
+
+#quarto-header #quarto-search .aa-DetachedSearchButtonPlaceholder {
+  font-weight: 650;
+}
+
+a.about-link[href="https://x-lance.github.io/"]::before {
+  content: "";
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  margin-right: 0.0em;
+  background-image: url("files/images/xlance-logo-white.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  vertical-align: -0.38em;
+}
+
+.aa-Panel {
+  border: 1px solid rgb(222 226 230 / 0.95);
+  border-radius: 8px;
+  box-shadow: 0 14px 32px rgb(0 0 0 / 0.18);
+}
+
+@media (min-width: 992px) {
+  #quarto-header .navbar-nav {
+    gap: 0.72rem;
+  }
+
+  body .page-columns {
+    grid-template-columns:
+      [screen-start] 1.5em
+      [screen-start-inset] 5fr
+      [page-start page-start-inset] 35px
+      [body-start-outset] 35px
+      [body-start] 1.5em
+      [body-content-start] minmax(500px, calc(var(--site-body-width) - 3em))
+      [body-content-end] 1.5em
+      [body-end] 35px
+      [body-end-outset] minmax(75px, 145px)
+      [page-end-inset] 35px
+      [page-end] 5fr
+      [screen-end-inset] 1.5em
+      [screen-end];
+  }
+
+  body.fullcontent:not(.floating):not(.docked) .page-columns {
+    grid-template-columns:
+      [screen-start] 1.5em
+      [screen-start-inset] 5fr
+      [page-start page-start-inset] 35px
+      [body-start-outset] 35px
+      [body-start] 1.5em
+      [body-content-start] minmax(500px, calc(var(--site-body-width) - 3em))
+      [body-content-end] 1.5em
+      [body-end] 35px
+      [body-end-outset] 35px
+      [page-end-inset page-end] 5fr
+      [screen-end-inset] 1.5em;
+  }
+}

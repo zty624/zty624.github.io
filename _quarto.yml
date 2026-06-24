@@ -11,10 +11,16 @@ website:
     # background: dark
 
     left:
-      # - text: Home
-      #   href: index.qmd
-      - text: News
+      - text: Home
+        href: index.qmd
+      - text: Posts
         href: posts.qmd
+      - text: Research
+        menu:
+          - text: Publications
+            href: publications.qmd
+          - text: Notes # Comment the Teaching part out to remove the Teaching page
+            href: notes.qmd
       # - text: Research
       #   menu:
       #     - text: List of Publications
@@ -23,8 +29,7 @@ website:
       #       href: posts.qmd#category=paper
       #     - text: Grants
       #       href: projects.qmd                                
-      - text: Notes # Comment the Teaching part out to remove the Teaching page
-        href: notes.qmd
+
       # - text: Outreach
       #   menu:        
       #   - text: Presentations
@@ -33,9 +38,9 @@ website:
       #   href: people.qmd
 
     right: 
-      - text: CV_EN
+      - text: CV
         href: files/cv_TengyueZhang_26May.pdf
-      - text: CV_ZH
+      - text: 简历
         href: files/cv_TengyueZhang_26Jun_ZH.pdf
       - icon: github
         href: https://github.com/zty624
@@ -49,19 +54,19 @@ website:
   
   page-navigation: true
   
-  # page-footer: 
-  #   left: "[Tengyue Zhang](https://github.com/zty624) &copy; <script>document.write(new Date().getFullYear())</script>" 
-  #   center: "Build on [Quarto](https://quarto.org)"
-  #   right:  
-  #     - icon: github
-  #       href: https://github.com/drganghe/quarto-academic-website-template
-  #       target: _blank
-  #     - text: "{{< fa brands bluesky >}}" 
-  #       href: https://bsky.app
-  #       target: _blank
-  #     - icon: rss
-  #       href: posts.xml
-  #       target: _blank  
+  page-footer: 
+    left: "[Tengyue Zhang](https://github.com/zty624) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "Build on [Quarto](https://quarto.org)"
+    right:  
+      - icon: github
+        href: https://github.com/drganghe/quarto-academic-website-template
+        target: _blank
+      - text: "{{< fa brands bluesky >}}" 
+        href: https://bsky.app
+        target: _blank
+      - icon: rss
+        href: posts.xml
+        target: _blank  
   
   search:
     location: navbar
