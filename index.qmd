@@ -97,8 +97,6 @@ Please feel free to contact me if interested.
 
 <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
 
-<br><br>
-
 ## Recent Posts
 <!-- Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd) -->
 
