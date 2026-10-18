@@ -90,6 +90,14 @@ You can find a detailed summary of my research interests and experiences in my [
 
 Jiatong Zhao\*, **Tengyue Zhang**\*, Yuhan Wang\*, Fuyuan Wu, Junchi Yan. *Co4ICF: Co-evolving Physics-Informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion*. The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ‘26) (\* Equal Contribution)
 
+## Projects
+
+**MOSS-Image** — Core Developer
+
+An open-source 5B-parameter text-to-image model with strong text rendering and layout control.
+
+[Project Page](https://openmoss.ai/MOSS-Image/) · [GitHub](https://github.com/OpenMOSS/MOSS-Image) · [Hugging Face (Base)](https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base) · [Hugging Face (SFT)](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT)
+
 :::
 
 <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
