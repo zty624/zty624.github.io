@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - google4565bc6c2ef9cc04.html
 
 website:
   title: "Tengyue Zhang"

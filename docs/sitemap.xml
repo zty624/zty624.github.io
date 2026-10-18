@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://zty624.github.io/publications.html</loc>
-    <lastmod>2026-08-06T08:33:35.601Z</lastmod>
+    <lastmod>2026-10-18T12:51:37.182Z</lastmod>
   </url>
   <url>
     <loc>https://zty624.github.io/posts.html</loc>
@@ -13,20 +13,24 @@
     <lastmod>2026-05-19T05:56:18.176Z</lastmod>
   </url>
   <url>
-    <loc>https://zty624.github.io/notes.html</loc>
-    <lastmod>2026-03-13T09:02:58.197Z</lastmod>
+    <loc>https://zty624.github.io/posts/blog-harness-as-automata/index.html</loc>
+    <lastmod>2026-05-29T13:44:38.553Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zty624.github.io/index.html</loc>
+    <lastmod>2026-10-18T13:35:01.174Z</lastmod>
   </url>
   <url>
     <loc>https://zty624.github.io/people.html</loc>
     <lastmod>2025-11-22T13:55:17.706Z</lastmod>
   </url>
   <url>
-    <loc>https://zty624.github.io/index.html</loc>
-    <lastmod>2026-08-20T05:37:19.402Z</lastmod>
+    <loc>https://zty624.github.io/notes.html</loc>
+    <lastmod>2026-03-13T09:02:58.197Z</lastmod>
   </url>
   <url>
-    <loc>https://zty624.github.io/posts/blog-harness-as-automata/index.html</loc>
-    <lastmod>2026-05-29T13:44:38.553Z</lastmod>
+    <loc>https://zty624.github.io/posts/blog-moss-image/index.html</loc>
+    <lastmod>2026-10-18T13:33:32.850Z</lastmod>
   </url>
   <url>
     <loc>https://zty624.github.io/posts/blog-thinking-about-physics-and-ai/index.html</loc>

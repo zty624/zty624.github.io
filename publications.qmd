@@ -8,16 +8,44 @@ title-block-banner: false
 
 ## Conference Papers
 
-### Co4ICF: Co-evolving Physics-Informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion
+### MORTIS: Advancing Complex Layout and High-Fidelity Text Rendering in Text-to-Image Generation
 
-Jiatong Zhao\*, **Tengyue Zhang**\*, Yuhan Wang\*, Fuyuan Wu, and Junchi Yan†.
-
-In *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD '26)*,
-Jeju Island, Republic of Korea, August 09-13, 2026.
+Zhe Xu, Donghua Yu, **Tengyue Zhang**, Yanbing Zhang, Ying Zhu, Yinze Luo, Qianyi Wu, Zhiyu Zhang, Wenbo Zhang, Yiyang Zhang, Ruixiao Li, Yiwei Zhao, Qian Chen, Haowei Zhang, Tianyi Liang, Chenghao Liu, Qi Luo, Zhijie Cao, Xiangyu Peng, Yang Gao, Zhaoye Fei, Shimin Li, Qinyuan Cheng, Xie Chen, and Xipeng Qiu. &emsp; **Under review at ICLR 2027**, September 2026.
 
 ::: {.pub-actions}
-[PDF](files/pubs/3770855.3818998.pdf)
+[OpenReview](https://openreview.net/forum?id=IlaF243TcO)
+:::
+
+### OmniVAE: An Audio-Video VAE with Cross-Modal Alignment for Joint Generation
+
+Jun Zhan\*, Chen Yang\*, Yitian Gong\*, Donghua Yu, Kuangwei Chen, Wenbo Zhang, Kexin Huang, Qi Luo, Zhe Xu, Ying Zhu, Jin Wang, **Tengyue Zhang**, Qi Chen, Cheng Chang, Songlin Wang, Junqi Dai, Jiasheng Ye, Xiaogui Yang, Tianyi Liang, Xiangyu Peng, Zhaoye Fei, Shimin Li, Qinyuan Cheng, Xie Chen, Xinchi Chen, and Xipeng Qiu. (\* Equal Contribution) &emsp; **Under review at ICLR 2027**, July 2026.
+
+::: {.pub-actions}
+[PDF](https://arxiv.org/pdf/2607.23855)
+[Code](https://github.com/OpenMOSS/OmniVAE)
+:::
+
+### Co4ICF: Co-evolving Physics-Informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion
+
+Jiatong Zhao\*, **Tengyue Zhang**\*, Yuhan Wang\*, Fuyuan Wu, and Junchi Yan. (\* Equal Contribution) &emsp; **SIGKDD '26 AI4Science Track**
+
+::: {.pub-actions}
+[PDF](https://arxiv.org/pdf/2607.10366)
 [DOI](https://doi.org/10.1145/3770855.3818998)
 [Code](https://github.com/Co4ICF/co4icf)
 [Dataset](https://huggingface.co/datasets/Oyhs/Co4ICFDataset)
+:::
+
+## Technical Reports
+
+### MOSS-Image Technical Report
+
+MOSI.AI. Technical report, 2026.
+
+::: {.pub-actions}
+[PDF](https://github.com/OpenMOSS/MOSS-Image/blob/main/paper/MOSS_Image_Technical_Report.pdf)
+[Code](https://github.com/OpenMOSS/MOSS-Image)
+[Hugging Face (Base)](https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base)
+[Hugging Face (SFT)](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT)
+[Project](https://openmoss.github.io/MOSS-Image/)
 :::

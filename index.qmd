@@ -34,13 +34,13 @@ about:
     #   target: _blank
     # - icon: youtube
     #   text: YouTube
-    #   href: https://www.youtube.com     
-    #   target: _blank 
+    #   href: https://www.youtube.com
+    #   target: _blank
     # - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
     #   href: https://orcid.org
     #   target: _blank
     # - text: "{{< ai clarivate >}} Web of Science"
-    #   href: https://www.webofscience.com  
+    #   href: https://www.webofscience.com
     #   target: _blank
     # - text: "{{< ai scopus >}} Scopus"
     #   href: https://www.scopus.com
@@ -54,7 +54,7 @@ about:
 
 listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
   - id: recent-posts
-    contents: 
+    contents:
       - posts
       - posts/post-links.yml
     exclude:
@@ -65,7 +65,7 @@ listing:   # Comment the listing section and delete corresponding lines in the i
     page-size: 3 #set same as max-times to remove the page number setting
     fields: [image, date, title, subtitle]
     max-description-length: 75
-    sort: 
+    sort:
       - "date desc"
       - "title asc"
 ---
@@ -74,29 +74,25 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 ## About Me
 
-A junior undergrad @ Shanghai Jiao Tong University (SJTU), with a major in the **Zhiyuan Honors Program** (*Physics Track*) and a minor in **Computer Science**.
+I'm a **senior undergrad** @ Shanghai Jiao Tong University (SJTU), with a major in the Zhiyuan Honors Program (*Physics Track*) and a minor in Computer Science.
+I plan to pursue a CS Ph.D. in [**XLance**](https://x-lance.github.io/) in Fall 2027.
+Now I am at a internship with [**OpenMOSS**](https://github.com/OpenMOSS) at Shanghai Innovation Institute (SII).
 
-I plan to pursue a Ph.D. in **Computer Science or Artificial Intelligence** beginning in Fall 2027.
-I am currently interning with OpenMOSS/MOSI at the Shanghai Innovation Institute (SII).
+My research interests lie on
 
-My research interests lie on 
-
-- **representation learning and multimodal generative modeling**. Particularly, I am interested in audio-visual generation (T2I/T2V/I2V), speech understanding and generation (ASR/TTS), and world models. 
+- **representation learning and multimodal generative modeling**. Particularly, I am interested in audio-visual generation (T2I/T2V/I2V), speech understanding and generation (ASR/TTS), and world models.
 - **Science4AI**, especially combining physical insights with AI to improve neural networks and solve scientific problems.
 
-You can find a detailed summary of my research interests and experiences in my [CV](files/cv_TengyueZhang_26May.pdf).
+Find detailed interests and experiences in my [CV](files/cv_TengyueZhang_26May.pdf)!
 
 ## Publications
 
-Jiatong Zhao\*, **Tengyue Zhang**\*, Yuhan Wang\*, Fuyuan Wu, Junchi Yan. *Co4ICF: Co-evolving Physics-Informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion*. The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ‘26) (\* Equal Contribution)
+Jiatong Zhao\*, **Tengyue Zhang**\*, Yuhan Wang\*, Fuyuan Wu, Junchi Yan. *Co4ICF: Co-evolving Physics-Informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion*. **Accepted at KDD 2026** (\* Equal Contribution)
 
 ## Projects
 
-**MOSS-Image** — Core Developer
-
-An open-source 5B-parameter text-to-image model with strong text rendering and layout control.
-
-[Project Page](https://openmoss.ai/MOSS-Image/) · [GitHub](https://github.com/OpenMOSS/MOSS-Image) · [Hugging Face (Base)](https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base) · [Hugging Face (SFT)](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT)
+I am a **core dev** of [**MOSS-Image**](https://github.com/OpenMOSS/MOSS-Image) <a href="https://github.com/OpenMOSS/MOSS-Image"><img alt="GitHub stars" src="https://img.shields.io/github/stars/OpenMOSS/MOSS-Image?style=flat-square&amp;logo=github"></a>
+, which is an open-source 5B-parameter text-to-image model with text rendering and layout control.
 
 :::
 
