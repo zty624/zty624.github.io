@@ -43,7 +43,7 @@ Jiatong Zhao\*, **Tengyue Zhang**\*, Yuhan Wang\*, Fuyuan Wu, and Junchi Yan. (\
 MOSI.AI. Technical report, 2026.
 
 ::: {.pub-actions}
-[PDF](https://github.com/OpenMOSS/MOSS-Image/blob/main/paper/MOSS_Image_Technical_Report.pdf)
+[PDF](https://arxiv.org/abs/2610.23374)
 [Code](https://github.com/OpenMOSS/MOSS-Image)
 [Hugging Face (Base)](https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base)
 [Hugging Face (SFT)](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT)
